@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "7ec6be09973e83d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb46429d7c62fd60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbd59cd988783120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Bruqai/Architects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Architects"
+            }
+          },
+          {
+            "id": "56c317a7c6d7d878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Bruqai/Types of Bruqai.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Types of Bruqai"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7258ae637294bec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ccf319cd5d245f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af59dffb568f454d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "be6202e4102d8335",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2bfd54df713366c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.51190185546875
+  },
+  "right": {
+    "id": "c7da3e543bfacb02",
+    "type": "split",
+    "children": [
+      {
+        "id": "b873678074bf7090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5189b350c49a5192",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Acora/Valdor/Grudor/Grudor.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Grudor"
+            }
+          },
+          {
+            "id": "7558812b7ccd4c2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Bruqai/Types of Bruqai.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Types of Bruqai"
+            }
+          },
+          {
+            "id": "9d1acb82fc50887c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Bruqai/Fleets/Intervention With Acora.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Intervention With Acora"
+            }
+          },
+          {
+            "id": "f417daf24d23cfa9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "18ef5c4e63ed2ef9",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "005b961ec490409d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "e57fb2aba45b69fe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": true,
+      "bases:Create new base": true,
+      "google-drive-sync:Push to Google Drive": false,
+      "cmdr:Google Drive Sync: Pull from Google Drive": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-leaflet-plugin:Open Leaflet Map": true,
+      "obsidian-kanban:Create new board": false,
+      "copilot:Open Copilot Chat": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "e57fb2aba45b69fe",
+  "lastOpenFiles": [
+    "The Bruqai/Architects.md",
+    "The Bruqai/Paradigms.md",
+    "The Bruqai/Types of Bruqai.md",
+    "Magic and Technology/The Dawnforge/Sources of the Dawnforge.md",
+    "Magic and Technology/The Dawnforge/The Dawnforge.md",
+    "Magic and Technology/The Dawnforge/Classes and the Dawnforge.md",
+    "Acora/Acora.md",
+    "Magic and Technology/The Dawnforge/Forge Node.md",
+    "Dawnforge.md",
+    "Acora/Wraekai/Waymarch/Waymarch.md",
+    "The Bruqai/Fleets/Intervention With Acora.md",
+    "The Bruqai/The Bruqai.md",
+    "The Bruqai/Fleets/Fleets.md",
+    "Acora/Valdor/Magnarch/Magnarch.md",
+    "Acora/Wraekai/Calythra/Calythra.md",
+    "Acora/Wraekai/Vitos/Vitos.md",
+    "To Do.md",
+    "Acora/Valdor/Grudor/Grudor.md",
+    "Acora/Wraekai/Deslea/Deslea.md",
+    "Acora/Wraekai/Wraekai.md",
+    "Acora/Travel Between Continents.md",
+    "History of Sunderspace/The Ashen Rebellion.md",
+    "Magic and Technology/Technology.md",
+    "Pantheon/Religions of Acora/Religions of Acora.md",
+    "Acora/The Searing Serpent Isles/Conflict Zone/Conflict Zone.md",
+    "Acora/Wraekai/Turul/Turul.md",
+    "Untitled.base",
+    "Magic and Technology/The Dawnforge",
+    "The Bruqai/Fleets",
+    "Races and Cultures",
+    "copilot-custom-prompts",
+    "Important NPCs",
+    "Magic and Technology/Artifacts",
+    "DM Screen/Images/Acora Map.png",
+    "DM Screen/Images/Acora 2025-06-03-00-19.jpeg",
+    "DM Screen/Images",
+    "image.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "History of Sunderspace/Invasion",
+    "Pantheon/Religions of Acora",
+    "DM Screen/Images/UnknownHorrorPNG.png",
+    "UnknownHorrorPNG 2.png",
+    "UnknownHorrorPNG 1.png"
+  ]
+}

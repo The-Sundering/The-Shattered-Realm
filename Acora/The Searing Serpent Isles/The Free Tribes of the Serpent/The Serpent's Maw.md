@@ -1,0 +1,7 @@
+Located in the eye, head and jaw of the Serpent.
+
+This islands is completely covered in a permanent wild magic storm. This wild magic can produce some of the most powerful magic on [[Acora]] because it's not subject to the limitations imposed by [[The Bruqai]]. As a result, it's the only place on the planet that has regular portals opened up to other planes. The majority of extraplanar beings live on islands in the Serpent's Maw as they were transported here and can't find a way back. No one actually lives on this island because of the perpetual danger wild magic brings. Most portals are only one way, but rarely a portal from [[Acora]] to other planes opens. [[The Bruqai]] closely guard Dawnshard Island because they don't want to allow contact with other planes, something that could result in an influx of powerful individuals that can spell their doom.
+
+Despite it's distance from [[Grudor]] and heavy strategic advantage it'd provide [[Turul]], it's apart of the Free Tribes because of the extreme danger the islands poses. No ship from Wraekai could get there safely and too much danger is posed to guard the island from [[Grudor]]'s side so it's left mutualy untouched.
+
+Dawnshard Island is the eye of the serpent and where the wild magic is strongest and localized. The Only island in the Serpent's Maw that generates portals.

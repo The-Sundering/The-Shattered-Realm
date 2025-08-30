@@ -1,0 +1,1 @@
+When a single person is the subject of enough truly strong emotions such as terror or reverence, they may achieve godhood or demi-godhood depending on the number of followers, strength of the emotions and control over [[Magic and Technology]]. Those who have such reverence such as great leaders can be a vessel of enough Dawnforge energy 

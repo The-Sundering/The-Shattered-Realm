@@ -1,0 +1,1 @@
+Has mushroom biomes. 

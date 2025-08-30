@@ -1,0 +1,293 @@
+{
+  "customFileOrder": {
+    "/": [
+      "To Do.md",
+      "copilot-custom-prompts",
+      "DM Screen",
+      "Acora",
+      "Races and Cultures",
+      "The Bruqai",
+      "Pantheon",
+      "Magic and Technology",
+      "History of Sunderspace",
+      "Sunder Space",
+      "Background for Players"
+    ],
+    "Acora": [
+      "Acora/The Searing Serpent Isles",
+      "Acora/Valdor",
+      "Acora/Wraekai",
+      "Acora/Oceans.md",
+      "Acora/Travel Between Continents.md",
+      "Acora/Calendar.md",
+      "Acora/Acora.md"
+    ],
+    "Acora/The Searing Serpent Isles": [
+      "Acora/The Searing Serpent Isles/Turulian Territories",
+      "Acora/The Searing Serpent Isles/Conflict Zone",
+      "Acora/The Searing Serpent Isles/The Free Tribes of the Serpent",
+      "Acora/The Searing Serpent Isles/Grudor Occupation Zones",
+      "Acora/The Searing Serpent Isles/The Searing Serpent Isles.md"
+    ],
+    "Acora/The Searing Serpent Isles/Conflict Zone": [
+      "Acora/The Searing Serpent Isles/Conflict Zone/Conflict Zone.md"
+    ],
+    "Acora/The Searing Serpent Isles/Grudor Occupation Zones": [
+      "Acora/The Searing Serpent Isles/Grudor Occupation Zones/Grudor Occupation Zones.md"
+    ],
+    "Acora/The Searing Serpent Isles/The Free Tribes of the Serpent": [
+      "Acora/The Searing Serpent Isles/The Free Tribes of the Serpent/The Serpent's Maw.md",
+      "Acora/The Searing Serpent Isles/The Free Tribes of the Serpent/The Free Tribes of the Serpent.md"
+    ],
+    "Acora/The Searing Serpent Isles/Turulian Territories": [],
+    "Acora/Valdor": [
+      "Acora/Valdor/Valdor.md",
+      "Acora/Valdor/Magnarch",
+      "Acora/Valdor/Grudor",
+      "Acora/Valdor/Pyril"
+    ],
+    "Acora/Valdor/Grudor": [
+      "Acora/Valdor/Grudor/Grudor.md"
+    ],
+    "Acora/Valdor/Magnarch": [
+      "Acora/Valdor/Magnarch/Magnarch.md"
+    ],
+    "Acora/Valdor/Pyril": [
+      "Acora/Valdor/Pyril/Pyril.md"
+    ],
+    "Acora/Wraekai": [
+      "Acora/Wraekai/Wraekai.md",
+      "Acora/Wraekai/Vitos",
+      "Acora/Wraekai/Deslea",
+      "Acora/Wraekai/Calythra",
+      "Acora/Wraekai/Turul",
+      "Acora/Wraekai/Waymarch"
+    ],
+    "Acora/Wraekai/Calythra": [
+      "Acora/Wraekai/Calythra/Coltherstone Province",
+      "Acora/Wraekai/Calythra/Calythra.md"
+    ],
+    "Acora/Wraekai/Calythra/Coltherstone Province": [
+      "Acora/Wraekai/Calythra/Coltherstone Province/Steelspire.md",
+      "Acora/Wraekai/Calythra/Coltherstone Province/Coltherstone Province.md"
+    ],
+    "Acora/Wraekai/Deslea": [
+      "Acora/Wraekai/Deslea/Deslea.md"
+    ],
+    "Acora/Wraekai/Turul": [
+      "Acora/Wraekai/Turul/Custom Spells.md",
+      "Acora/Wraekai/Turul/Turul's School System.md",
+      "Acora/Wraekai/Turul/Turul.md"
+    ],
+    "Acora/Wraekai/Vitos": [
+      "Acora/Wraekai/Vitos/Vitos.md"
+    ],
+    "Acora/Wraekai/Waymarch": [
+      "Acora/Wraekai/Waymarch/Freepier.md",
+      "Acora/Wraekai/Waymarch/Waymarch.md"
+    ],
+    "Background for Players": [
+      "Background for Players/Races.md",
+      "Background for Players/Backgrounds.md",
+      "Background for Players/Player Introduction.md",
+      "Background for Players/Allowed Source Materials.md",
+      "Background for Players/Condensed History of Everspace.md",
+      "Background for Players/Race Restrictions.md"
+    ],
+    "copilot-custom-prompts": [
+      "copilot-custom-prompts/Emojify.md",
+      "copilot-custom-prompts/Explain like I am 5.md",
+      "copilot-custom-prompts/Fix grammar and spelling.md",
+      "copilot-custom-prompts/Generate glossary.md",
+      "copilot-custom-prompts/Generate table of contents.md",
+      "copilot-custom-prompts/Make longer.md",
+      "copilot-custom-prompts/Make shorter.md",
+      "copilot-custom-prompts/Remove URLs.md",
+      "copilot-custom-prompts/Rewrite as tweet.md",
+      "copilot-custom-prompts/Rewrite as tweet thread.md",
+      "copilot-custom-prompts/Simplify.md",
+      "copilot-custom-prompts/Summarize.md",
+      "copilot-custom-prompts/Translate to Chinese.md"
+    ],
+    "DM Screen": [
+      "DM Screen/Homebrew Rules.md",
+      "DM Screen/Magic Items",
+      "DM Screen/Combat",
+      "DM Screen/Images"
+    ],
+    "DM Screen/Combat": [
+      "DM Screen/Combat/Expected Damage Per Round.md"
+    ],
+    "DM Screen/Images": [
+      "DM Screen/Images/Acora Map.png",
+      "DM Screen/Images/UnknownHorrorPNG.png"
+    ],
+    "DM Screen/Magic Items": [
+      "DM Screen/Magic Items/Homebrew Magic Item List",
+      "DM Screen/Magic Items/Items by Class"
+    ],
+    "DM Screen/Magic Items/Homebrew Magic Item List": [
+      "DM Screen/Magic Items/Homebrew Magic Item List/Common Items.md",
+      "DM Screen/Magic Items/Homebrew Magic Item List/Uncommon Items.md",
+      "DM Screen/Magic Items/Homebrew Magic Item List/Rare Items.md",
+      "DM Screen/Magic Items/Homebrew Magic Item List/Very Rare Items.md",
+      "DM Screen/Magic Items/Homebrew Magic Item List/Legendary Items.md"
+    ],
+    "DM Screen/Magic Items/Items by Class": [
+      "DM Screen/Magic Items/Items by Class/Artificer",
+      "DM Screen/Magic Items/Items by Class/Barbarian",
+      "DM Screen/Magic Items/Items by Class/Bard",
+      "DM Screen/Magic Items/Items by Class/Cleric",
+      "DM Screen/Magic Items/Items by Class/Druid",
+      "DM Screen/Magic Items/Items by Class/Fighter",
+      "DM Screen/Magic Items/Items by Class/Monk",
+      "DM Screen/Magic Items/Items by Class/Paladin",
+      "DM Screen/Magic Items/Items by Class/Ranger",
+      "DM Screen/Magic Items/Items by Class/Rogue",
+      "DM Screen/Magic Items/Items by Class/Sorcerer",
+      "DM Screen/Magic Items/Items by Class/Warlock",
+      "DM Screen/Magic Items/Items by Class/Wizard"
+    ],
+    "DM Screen/Magic Items/Items by Class/Artificer": [
+      "DM Screen/Magic Items/Items by Class/Artificer/Common Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Artificer/Legendary Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Artificer/Major Magic Item Distribution Table.md",
+      "DM Screen/Magic Items/Items by Class/Artificer/Rare Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Artificer/Uncommon Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Artificer/Very Rare Magic Items.md"
+    ],
+    "DM Screen/Magic Items/Items by Class/Barbarian": [
+      "DM Screen/Magic Items/Items by Class/Barbarian/Common Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Barbarian/Rare Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Barbarian/Uncommon Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Barbarian/Very Rare Magic Items.md"
+    ],
+    "DM Screen/Magic Items/Items by Class/Bard": [
+      "DM Screen/Magic Items/Items by Class/Bard/Common Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Bard/Rare Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Bard/Uncommon Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Bard/Very Rare Magic Items.md"
+    ],
+    "DM Screen/Magic Items/Items by Class/Cleric": [
+      "DM Screen/Magic Items/Items by Class/Cleric/Common Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Cleric/Rare Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Cleric/Uncommon Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Cleric/Very Rare Magic Items.md"
+    ],
+    "DM Screen/Magic Items/Items by Class/Druid": [
+      "DM Screen/Magic Items/Items by Class/Druid/Common Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Druid/Rare Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Druid/Uncommon Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Druid/Very Rare Magic Items.md"
+    ],
+    "DM Screen/Magic Items/Items by Class/Fighter": [
+      "DM Screen/Magic Items/Items by Class/Fighter/Common Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Fighter/Rare Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Fighter/Uncommon Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Fighter/Very Rare Magic Items.md"
+    ],
+    "DM Screen/Magic Items/Items by Class/Monk": [
+      "DM Screen/Magic Items/Items by Class/Monk/Common Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Monk/Rare Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Monk/Uncommon Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Monk/Very Rare Magic Items.md"
+    ],
+    "DM Screen/Magic Items/Items by Class/Paladin": [
+      "DM Screen/Magic Items/Items by Class/Paladin/Common Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Paladin/Rare Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Paladin/Uncommon Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Paladin/Very Rare Magic Items.md"
+    ],
+    "DM Screen/Magic Items/Items by Class/Ranger": [
+      "DM Screen/Magic Items/Items by Class/Ranger/Common Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Ranger/Rare Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Ranger/Uncommon Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Ranger/Very Rare Magic Items.md"
+    ],
+    "DM Screen/Magic Items/Items by Class/Rogue": [
+      "DM Screen/Magic Items/Items by Class/Rogue/Common Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Rogue/Rare Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Rogue/Uncommon Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Rogue/Very Rare Magic Items.md"
+    ],
+    "DM Screen/Magic Items/Items by Class/Sorcerer": [
+      "DM Screen/Magic Items/Items by Class/Sorcerer/Common Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Sorcerer/Rare Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Sorcerer/Uncommon Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Sorcerer/Very Rare Magic Items.md"
+    ],
+    "DM Screen/Magic Items/Items by Class/Warlock": [
+      "DM Screen/Magic Items/Items by Class/Warlock/Common Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Warlock/Rare Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Warlock/Uncommon Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Warlock/Very Rare Magic Items.md"
+    ],
+    "DM Screen/Magic Items/Items by Class/Wizard": [
+      "DM Screen/Magic Items/Items by Class/Wizard/Common Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Wizard/Rare Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Wizard/Uncommon Magic Items.md",
+      "DM Screen/Magic Items/Items by Class/Wizard/Very Rare Magic Items.md"
+    ],
+    "History of Sunderspace": [
+      "History of Sunderspace/The Sundering.md",
+      "History of Sunderspace/The Purge of Gods.md",
+      "History of Sunderspace/Drakai's Rise and Fall.md",
+      "History of Sunderspace/The Ashen Rebellion.md"
+    ],
+    "Magic and Technology": [
+      "Magic and Technology/The Dawnforge",
+      "Magic and Technology/Artifacts",
+      "Magic and Technology/Technology.md",
+      "Magic and Technology/Demi Gods.md",
+      "Magic and Technology/Magic and Technology.md"
+    ],
+    "Magic and Technology/Artifacts": [
+      "Magic and Technology/Artifacts/The Godthorn.md"
+    ],
+    "Magic and Technology/The Dawnforge": [
+      "Magic and Technology/The Dawnforge/Sources of the Dawnforge.md",
+      "Magic and Technology/The Dawnforge/Classes and the Dawnforge.md",
+      "Magic and Technology/The Dawnforge/Forge Node.md",
+      "Magic and Technology/The Dawnforge/The Dawnforge.md"
+    ],
+    "Pantheon": [
+      "Pantheon/Gods of Acora.md",
+      "Pantheon/Religions of Acora",
+      "Pantheon/Afterlife.md",
+      "Pantheon/Raki, Raor, and Rila.md"
+    ],
+    "Pantheon/Religions of Acora": [
+      "Pantheon/Religions of Acora/Watchers of the Eternal Wheel.md",
+      "Pantheon/Religions of Acora/The Children of Root and Claw.md",
+      "Pantheon/Religions of Acora/The Sanctum of the Sea.md",
+      "Pantheon/Religions of Acora/Disciples of the Dawnforge.md",
+      "Pantheon/Religions of Acora/The Stonebound Creed.md",
+      "Pantheon/Religions of Acora/The Divine Arc.md",
+      "Pantheon/Religions of Acora/Oracles of the Twin Suns.md",
+      "Pantheon/Religions of Acora/The Bruqai Brotherhood.md",
+      "Pantheon/Religions of Acora/Religions of Acora.md"
+    ],
+    "Races and Cultures": [
+      "Races and Cultures/Eldrinir.md"
+    ],
+    "Sunder Space": [
+      "Sunder Space/Crystal Sphere.md"
+    ],
+    "The Bruqai": [
+      "The Bruqai/Fleets",
+      "The Bruqai/Types of Bruqai.md",
+      "The Bruqai/Architects.md",
+      "The Bruqai/Paradigms.md",
+      "The Bruqai/Chosen.md",
+      "The Bruqai/The Bruqai.md"
+    ],
+    "The Bruqai/Fleets": [
+      "The Bruqai/Fleets/Social Structure of the Fleets.md",
+      "The Bruqai/Fleets/Interference With Other Bruqai.md",
+      "The Bruqai/Fleets/Intervention With Acora.md",
+      "The Bruqai/Fleets/Fleets.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting"
+}

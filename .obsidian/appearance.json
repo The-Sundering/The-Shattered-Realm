@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#0084ff",
+  "enabledCssSnippets": [
+    "custom-background",
+    "extended-colorschemes",
+    "headers-bolded",
+    "table-colour"
+  ]
+}

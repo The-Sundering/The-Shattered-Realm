@@ -1,0 +1,7 @@
+## **Rolling**
+While in initiative, choosing to do a skill check takes 1 bonus action. You can make 1 skill check at disadvantage with a free action. You can also choose to spend your action to make a skill check at advantage.
+
+When you create your character, choose one skill. You have advantage on checks with that skill, but only for a specific area of expertise tied to your backstory. For example, if a player was a farmer in their background and spent most of their life around chickens, pigs and goats, they have advantage on animal handling saves for farm animals specifically. They wouldn't have advantage on an animal handling save for a bear. 
+
+## **Combat**
+**Surprise Rounds** - If one group is completely unaware of the other before combat begins, a **Surprise Round** occurs. A **Surprise Round** is a special round that happens before regular initiative begins. Only characters who are **not surprised** may act in the Surprise Round. Surprised creatures **cannot act**, move, or react during the Surprise Round and **cannot take legendary actions**. Each creature attempting to ambush makes a **Stealth check** against the other group's **Passive Perception** (or active Perception, if alert or expecting danger). If a creature’s Perception is **lower** than the ambusher’s Stealth, it is **surprised**.

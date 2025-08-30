@@ -1,0 +1,5 @@
+When [[the Bruqai]] came to [[Acora]], one of the first things they did was eliminate the threat of any gods preventing their takeover of the planet. They learned of the ancient myths of the people and managed to locate [[Raki, Raor, and Rila#Rila's Death|the Godthorn]] which they could use to threaten or kill any god that stood in their way. Raki and Raor posed no challenge to [[the Bruqai]] and only asked that their [[Oracles of the Twin Suns|monasteries]] be left alone for their obedience. 
+
+This lead to many fearless gods dying and being replaced by mortals or demi-god usurpers that sided with [[the Bruqai]]. This deceit is unknown to most people and the stories usually told by these usurpers is that the old gods sided with [[the Bruqai]] and needed to be cast down.
+
+[[Raki, Raor, and Rila|]] [[Raki, Raor, and Rila|The Triplet Suns]] are gods who the God [[Raki, Raor, and Rila|The Triplet Suns]] The

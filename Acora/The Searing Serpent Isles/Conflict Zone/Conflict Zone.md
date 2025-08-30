@@ -1,0 +1,3 @@
+The Conflict Zone is the region of the Searing Serpent that has yet to be claimed by either power. It's an active war zone used to get a strategic advantage by both sides. The Western islands closest to [[Vitos]] would provide [[Grudor]] with quick access to [[Vitos]] for an assault. Downpour Island is the most contested site since it'd allow [[Grudor]] to land on [[Vitos]] in only hours [[Turul]] is fighting very hard to keep them from getting that position. [[Grudor]] is much more interested in claiming [[Vitos]] than getting [[Turul]] because they're in desperate need of their fertile soil.
+
+The Eastern Islands provide access to [[Grudor]]. [[Turul]] can get to them by Island

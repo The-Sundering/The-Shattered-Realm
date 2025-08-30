@@ -1,0 +1,15 @@
+With tensions between [[Turul]] and [[Grudor]] being high, travelling between Wraekai and Valdor is no easy task. The only means of travelling between the continents is by sea. [[Magnarch]] is the only nation able to make ships capable enough to brave [[Oceans#The Painted Sea|the Painted Sea]]. This means they're the primary means of transport between continents. Travel to Wraekai is strictly prohibited by [[Grudor]] however so there are no legitimate means of getting there.
+
+### [[Magnarch]]
+##### Fishers
+Fishers are typically able to get away with going to Wraekai as long as they come back with enough fish to justify their long journey. These fishers will accept anyone capable of paying the steep fee for safe passage to Wraekai. They're typically dropped off in [[Calythra]] or [[Freepier]] as these are the only safe coastal regions that allow Valdorians. These fishers will then do their catches on the way back.
+
+##### Navy
+Very wealthy and powerful passengers may be able to secure passage on smaller Navy vessels, especially those they have some form of command over such as those operated by citizens of their region. These trips are far more comfortable than the ones on fishing vessels. They are also relatively uncommon. They're only done when the passenger needs to flee [[Grudor]] due to a real or perceived threat from the empire or in order to secure very lucrative contracts with any of the nations of Wraekai.
+
+### Pirates
+Pirates are the cheapest means of travelling between the continents. They'll allow anyone on board as long as they have the coin. Though they won't hesitate to toss you overboard if they find you're more trouble than you're worth. Most of the travellers on pirate ships are desperate refugees with little to their names and criminals fleeing from the law. Both of these groups would be unable to secure passage on a fishing vessel. The most expensive ships are those that have the most trustworthy reputation. Almost everyone makes their way there and back safely. Passage can be secured for very cheap or free on new or untrustworthy vessels where you gamble with being forced to remain a member of the crew or end up killed with all your valuables stolen.
+
+### Calythra and Freepier
+[[Calythra]] and Freepier have both managed to secure some vessels from these untrustworthy pirates in the past. These vessels had already been stolen from the [[Magnarch]] navy or her fishers so are perfectly capable of traversing the sea. There's only a few of them though with the oldest ones falling into disrepair with no one having the expertise to fix them. They use these ships primarily to secure ore from [[Pyril]] miners which they pay handsomely for. They've been given a basic guide on how to forge armour so [[Calythra]] is the only nation on Wraekai that has an army equipped with metal armour. These ships will take any refugees they can carry when they return from their trip. Passage is free but passengers are expected to bring their own food and water. 
+
